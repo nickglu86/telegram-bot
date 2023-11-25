@@ -1,13 +1,13 @@
 {
   "name": "telegram-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Telegram Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "nickglu86",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.2",
